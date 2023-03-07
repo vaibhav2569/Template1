@@ -1,0 +1,13 @@
+body{
+    padding: 50px 50px 50px 50px;
+}
+.footer__div1{
+    float: left;
+    width: 48%;
+    text-align: justify;
+}
+.footer__div2{
+  float: right;
+width: 48%;
+text-align: justify;
+}
