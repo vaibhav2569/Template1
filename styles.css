@@ -3,11 +3,14 @@ body{
 }
 .footer__div1{
     float: left;
-    width: 48%;
+    width: 49%;
     text-align: justify;
 }
 .footer__div2{
   float: right;
-width: 48%;
+width: 49%;
 text-align: justify;
+}
+ul{
+  padding-left: 15px;
 }
